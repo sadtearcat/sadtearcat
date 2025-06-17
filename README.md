@@ -57,14 +57,6 @@ Vue & React 기반의 구조적인 상태관리부터 모바일 추론 파이프
 
 ---
 
-## 📈 GitHub Stats
-
-![sadtearcat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadtearcat&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadtearcat&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=sadtearcat&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
----
-
 ## 🌐 Portfolio
 
 - 🧾 포트폴리오: [baekjiwon.vercel.app](https://baekjiwon.vercel.app)
